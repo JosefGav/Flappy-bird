@@ -17,7 +17,7 @@ let ballSize = 25;
 let wallSpeed = 2; //not needed
 
 function setup() {
-  createCanvas(innerWidth, innerHeight);
+  createCanvas(600, 500);
   frameRate(60);
   ballX = 10;//sets the balls x position
   ballY = height/2; // sets the balls y pos
