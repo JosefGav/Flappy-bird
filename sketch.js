@@ -14,7 +14,7 @@ let falling = false;
 let score = 0;
 let topScores = [];
 let ballSize = 25;
-let wallSpeed = 1; //not needed
+let wallSpeed = 2; //not needed
 
 function setup() {
   createCanvas(innerWidth, innerHeight);
